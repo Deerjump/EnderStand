@@ -1,0 +1,8 @@
+{
+  "item.enderstand.ender_stand": "Ender Stand",
+  "item.enderstand.remote_swapper": "Remote Swapper",
+  "firstmod.messages.no_tracked_stand": "You don't have an EnderStand linked!",
+  "firstmod.messages.stand_not_found": "EnderStand not found!",
+  "firstmod.messages.tracked_stand_location": "Swapped with EnderStand at: x: %d y: %d z: %d",
+  "firstmod.messages.bind_successful": "Bound!"
+}
