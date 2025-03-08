@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:ender_pearl"
+    },
+    "_": {
+      "item": "minecraft:smooth_stone_slab"
+    }
+  },
+  "pattern": [
+    "///",
+    " O ",
+    "/_/"
+  ],
+  "result": {
+    "count": 1,
+    "id": "enderstand:ender_stand"
+  }
+}
